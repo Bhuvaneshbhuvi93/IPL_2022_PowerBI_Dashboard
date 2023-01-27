@@ -23,7 +23,7 @@ This project is a Power BI dashboard that provides an analysis of the Indian Pre
 ## Data Sources
 
 - The data used in this project is based on last year's IPL matches.
-- Data sourced from [IPL Data](https://www.kaggle.com/datasets/vora1011/ipl-2022-match-dataset)
+- Data sourced from [Kaggle Data](https://www.kaggle.com/datasets/vora1011/ipl-2022-match-dataset)
 
 ## Built With
 
