@@ -29,6 +29,10 @@ This project is a Power BI dashboard that provides an analysis of the Indian Pre
 
 - [Power BI](https://powerbi.microsoft.com/) - The business intelligence tool used to create the dashboard
 
+## Demo Video
+
+https://user-images.githubusercontent.com/118096816/215034951-fedc7185-3814-4a3b-8602-4e0e4accaa43.mp4
+
 ## Author
 
 - **Bhuvaneshwar** 
